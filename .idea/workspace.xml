@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c63f600c-e430-4386-a770-2f49fd848ebb" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/BirdInterfaceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/BirdInterfaceImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/OtterInterfaceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/OtterInterfaceImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/WolfInterfaceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/WolfInterfaceImplementation.java" afterDir="false" />
+=======
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,6 +20,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf />
+=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/junit/framework/TestCase.java">
@@ -27,23 +37,39 @@
         </entry>
       </file>
     </leaf>
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
+<<<<<<< HEAD
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+=======
         <option value="Interface" />
         <option value="JUnit4 Test Class" />
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ryan Kolbe &lt;31966635+ryankolbe@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+=======
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+=======
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/AssertEqualityInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/AssertEqualityInterfaceImplementation.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/AssertEqualityInterfaceImplementationTest.java" />
@@ -56,6 +82,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/floatEquality/AssertFloatConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/floatEquality/AssertFloatEqualityInterfaceImplementation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/intEquality/AssertIntConfig.java" />
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/intEquality/AssertIntEqualityInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/intEquality/AssertIntEqualityModel.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/stringEquality/AssertFloatEqualityInterfaceImplementationTest.java" />
@@ -95,6 +122,21 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/timeouts/TimeoutsConfig.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/timeouts/TimeoutsInterfaceImplementationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/failingtest/ObjectEqualityInterfaceImplementationTest.java" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/calculatorModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/animalActionInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/animalCong.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/animalConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/wolfInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/birdInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/animalModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/AnimalModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/AnimalConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/BirdInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/OtterInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/WolfInterfaceImplementation.java" />
+=======
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
       </list>
     </option>
   </component>
@@ -105,12 +147,34 @@
       </MavenImportingSettings>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Chapter_3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+=======
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
       <pane id="PackagesPane" />
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -122,11 +186,7 @@
             <path>
               <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -139,16 +199,110 @@
               <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+              <item name="disablingtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551913826609" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+=======
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551911396364" />
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -179,6 +333,10 @@
       <recent name="C:\Users\Ryan Kolbe\IdeaProjects\Chapter_3\src\main\java\com\ryankolbe\floatEquality" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+<<<<<<< HEAD
+      <recent name="com.ryankolbe.multi_module" />
+=======
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
       <recent name="com.ryankolbe.objectequality" />
       <recent name="com.ryankolbe" />
     </key>
@@ -298,17 +456,39 @@
       <workItem from="1551853747601" duration="18740000" />
       <workItem from="1551886456711" duration="1141000" />
       <workItem from="1551899703471" duration="4107000" />
+<<<<<<< HEAD
+      <workItem from="1551904151546" duration="9645000" />
+      <workItem from="1551914110614" duration="95000" />
+    </task>
+    <task id="LOCAL-00001" summary="changes">
+      <created>1551913690897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551913690897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2643000" />
+=======
       <workItem from="1551904151546" duration="7163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="66000" />
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33509833" />
+=======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32980332" />
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -322,6 +502,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32850242" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.32850242" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32850242" />
+=======
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
@@ -329,6 +518,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32850242" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
@@ -372,13 +562,38 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout-to-restore>
   </component>
+<<<<<<< HEAD
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+=======
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/multi_module.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/calculatorModel.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/junit/framework/TestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3502">
+=======
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/junit/framework/TestCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
           <caret line="226" selection-start-line="226" selection-end-line="226" />
           <folding>
             <element signature="e#6693#6694#0" expanded="true" />
@@ -386,6 +601,92 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/WolfInterfaceImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/AnimalActionInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/AnimalModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/OtterInterfaceImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/BirdInterfaceImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/AnimalConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/disablingtest/DisablingTestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/timeouts/TimeoutsConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+=======
+>>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
   </component>
   <component name="masterDetails">
     <states>
