@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c63f600c-e430-4386-a770-2f49fd848ebb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/junit/framework/TestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="226" selection-start-line="226" selection-end-line="226" />
+              <folding>
+                <element signature="e#6693#6694#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/AssertEqualityInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/AssertEqualityInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/AssertEqualityInterfaceImplementationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/stringEquality/AssertEqualityInterfaceImplementationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/floatEquality/stringEquality/AssertEqualityModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/floatEquality/AssertEqualityModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/intEquality/AssertEqualityInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/floatEquality/AssertFloatEqualityModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/floatEquality/AssertFloatEqualityInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/floatEquality/AssertFloatConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/floatEquality/AssertFloatEqualityInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/intEquality/AssertIntConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/intEquality/AssertIntEqualityInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/intEquality/AssertIntEqualityModel.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/stringEquality/AssertFloatEqualityInterfaceImplementationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/intEquality/AssertIntIntEqualityInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/intEquality/AssertIntFloatEqualityInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/intEquality/AssertIntEqualityInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/stringEquality/AssertIntEqualityInterfaceImplementationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/stringEquality/AssertStringEqualityInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/stringEquality/AssertStringEqualityModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/stringEquality/AssertStringEqualityInterface.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/floatEquality/AssertIntEqualityInterfaceImplementationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/floatEquality/AssertFloatEqualityInterfaceImplementationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/intEquality/AssertIntEqualityInterfaceImplementationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/stringEquality/AssertStringEqualityInterfaceImplementationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/stringEquality/AssertStringConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/objectEquality/AssertObjectEqualityModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/objectEquality/AssertObjectEqualityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/objectEquality/AssertObjectEqualityInterface.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/objectEquality/AssertObjectEqualityInterfaceImplementationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/objectEquality/AssertObjectEqualityInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/objectequality/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/objectequality/ObjectEqualityInterface.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/objectequality/ObjectEqualityTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/objectequality/objectEqualityConfigClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/objectequality/ObjectEqualityModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/objectequality/ObjectEqualityInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/Objectequality/ObjectEqualityInterfaceImplementationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/objectequality/ObjectEqualityInterfaceImplementationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/disablingtest/DisablingTestModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/disablingtest/DisablingTestInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/disablingtest/DisablingTestInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/disablingtest/DisablingTestConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/disablingtest/DisablingTestInterfaceImplementationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/timeouts/TimeoutsModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/timeouts/TimeoutsInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/timeouts/TimeoutsInterfaceImplementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ryankolbe/timeouts/TimeoutsConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/timeouts/TimeoutsInterfaceImplementationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ryankolbe/failingtest/ObjectEqualityInterfaceImplementationTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551911396364" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.ryankolbe.objectequality" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ryankolbe.timeouts" />
+      <recent name="com.ryankolbe.disablingtest" />
+      <recent name="com.ryankolbe.objectequality" />
+      <recent name="com.ryankolbe.objectEquality" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ryankolbe.objectequality" />
+      <recent name="com.ryankolbe.floatEquality" />
+      <recent name="com.ryankolbe.intEquality" />
+      <recent name="com.ryankolbe.stringEquality" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ryankolbe.failingtest" />
+      <recent name="com.ryankolbe.stringEquality" />
+      <recent name="com.ryankolbe.intEquality" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryan Kolbe\IdeaProjects\Chapter_3\src\main\java\com\ryankolbe\intEquality" />
+      <recent name="C:\Users\Ryan Kolbe\IdeaProjects\Chapter_3\src\main\java\com\ryankolbe\floatEquality" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ryankolbe.objectequality" />
+      <recent name="com.ryankolbe" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ObjectEqualityInterfaceImplementationTest.objectEquality (1)">
+    <configuration name="DisablingTestInterfaceImplementationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chapter_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ryankolbe.disablingtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ryankolbe.disablingtest" />
+      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.disablingtest.DisablingTestInterfaceImplementationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisablingTestInterfaceImplementationTest.concatName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chapter_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ryankolbe.disablingtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ryankolbe.disablingtest" />
+      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.disablingtest.DisablingTestInterfaceImplementationTest" />
+      <option name="METHOD_NAME" value="concatName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectEqualityInterfaceImplementationTest.objectEquality (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chapter_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ryankolbe.failingtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ryankolbe.failingtest" />
+      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.failingtest.ObjectEqualityInterfaceImplementationTest" />
+      <option name="METHOD_NAME" value="objectEquality" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeoutsInterfaceImplementationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chapter_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ryankolbe.timeouts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ryankolbe.timeouts" />
+      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.timeouts.TimeoutsInterfaceImplementationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeoutsInterfaceImplementationTest.countTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chapter_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ryankolbe.timeouts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ryankolbe.timeouts" />
+      <option name="MAIN_CLASS_NAME" value="com.ryankolbe.timeouts.TimeoutsInterfaceImplementationTest" />
+      <option name="METHOD_NAME" value="countTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ObjectEqualityInterfaceImplementationTest.objectEquality (1)" />
+        <item itemvalue="JUnit.TimeoutsInterfaceImplementationTest" />
+        <item itemvalue="JUnit.TimeoutsInterfaceImplementationTest.countTime" />
+        <item itemvalue="JUnit.DisablingTestInterfaceImplementationTest" />
+        <item itemvalue="JUnit.DisablingTestInterfaceImplementationTest.concatName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c63f600c-e430-4386-a770-2f49fd848ebb" name="Default Changelist" comment="" />
+      <created>1551787418011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551787418011</updated>
+      <workItem from="1551787427868" duration="2371000" />
+      <workItem from="1551853747601" duration="18740000" />
+      <workItem from="1551886456711" duration="1141000" />
+      <workItem from="1551899703471" duration="4107000" />
+      <workItem from="1551904151546" duration="7163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32850242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32850242" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32850242" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/junit/framework/TestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="226" selection-start-line="226" selection-end-line="226" />
+          <folding>
+            <element signature="e#6693#6694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|Chapter_3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
