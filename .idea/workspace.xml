@@ -18,38 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/multi_module/BirdInterfaceImplementationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/multi_module/OtterInterfaceImplementationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/multi_module/WolfInterfaceImplementationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="537" column="99" selection-start-line="537" selection-start-column="99" selection-end-line="537" selection-end-column="99" />
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/AnimalZoo.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -323,39 +291,6 @@
       <recent name="com.ryankolbe" />
     </key>
   </component>
-  <component name="RecentsManager">
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="com.ryankolbe.objectequality" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.ryankolbe.timeouts" />
-      <recent name="com.ryankolbe.disablingtest" />
-      <recent name="com.ryankolbe.objectequality" />
-      <recent name="com.ryankolbe.objectEquality" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.ryankolbe.objectequality" />
-      <recent name="com.ryankolbe.floatEquality" />
-      <recent name="com.ryankolbe.intEquality" />
-      <recent name="com.ryankolbe.stringEquality" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.ryankolbe.failingtest" />
-      <recent name="com.ryankolbe.stringEquality" />
-      <recent name="com.ryankolbe.intEquality" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Ryan Kolbe\IdeaProjects\Chapter_3\src\main\java\com\ryankolbe\intEquality" />
-      <recent name="C:\Users\Ryan Kolbe\IdeaProjects\Chapter_3\src\main\java\com\ryankolbe\floatEquality" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.ryankolbe.objectequality" />
-      <recent name="com.ryankolbe" />
-    </key>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -368,8 +303,6 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ObjectEqualityInterfaceImplementationTest.objectEquality (1)">
-    <configuration name="DisablingTestInterfaceImplementationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
   <component name="RunManager" selected="Application.AnimalZoo">
     <configuration name="AnimalZoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ryankolbe.multi_module.AnimalZoo" />
@@ -492,7 +425,6 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="435000" />
     <option name="totallyTimeSpent" value="2784000" />
   </component>
   <component name="ToolWindowManager">
@@ -665,7 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/disablingtest/DisablingTestConfig.java">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/WolfInterfaceImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
