@@ -12,13 +12,13 @@ public class WolfInterfaceImplementationTest {
 
     @Before
     public void setUp() {
-        ApplicationContext applicationContext = new AnnotationConfigApplicationContext("Wolf");
+        ApplicationContext applicationContext = new AnnotationConfigApplicationContext(AnimalConfig.class);
         animalActionInterface = (AnimalActionInterface) applicationContext.getBean("Wolf");
     }
 
     @Test
     public void animalAction() {
         String result = animalActionInterface.animalAction("Wolf");
-        Assert.assertEquals("Wolf", result);
+        Assert.assertEquals("Wolves can snarl.", result);
     }
 }
