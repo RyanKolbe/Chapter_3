@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c63f600c-e430-4386-a770-2f49fd848ebb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/BirdInterfaceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/BirdInterfaceImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/OtterInterfaceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/OtterInterfaceImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/WolfInterfaceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/WolfInterfaceImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,16 +13,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/junit/framework/TestCase.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/multi_module/BirdInterfaceImplementationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="226" selection-start-line="226" selection-end-line="226" />
-              <folding>
-                <element signature="e#6693#6694#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/multi_module/OtterInterfaceImplementationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/multi_module/WolfInterfaceImplementationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="537" column="99" selection-start-line="537" selection-start-column="99" selection-end-line="537" selection-end-column="99" />
             </state>
           </provider>
         </entry>
@@ -150,8 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,26 +179,30 @@
             <path>
               <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
@@ -194,16 +215,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
-              <item name="disablingtest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
@@ -245,69 +256,73 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Chapter_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ryankolbe" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_module" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
-  <panes name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551913826609" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    </panes>
-
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551911396364" />
   </component>
-<key name="ExtractSuperBase.RECENT_KEYS">
-<recent name="com.ryankolbe.objectequality" />
-</key>
-<key name="CreateTestDialog.RecentsKey">
-<recent name="com.ryankolbe.timeouts" />
-<recent name="com.ryankolbe.disablingtest" />
-<recent name="com.ryankolbe.objectequality" />
-<recent name="com.ryankolbe.objectEquality" />
-</key>
-<key name="CreateTestDialog.Recents.Supers">
-<recent name="" />
-</key>
-<key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-<recent name="com.ryankolbe.objectequality" />
-<recent name="com.ryankolbe.floatEquality" />
-<recent name="com.ryankolbe.intEquality" />
-<recent name="com.ryankolbe.stringEquality" />
-</key>
-<key name="CopyClassDialog.RECENTS_KEY">
-<recent name="com.ryankolbe.failingtest" />
-<recent name="com.ryankolbe.stringEquality" />
-<recent name="com.ryankolbe.intEquality" />
-</key>
-<key name="CopyFile.RECENT_KEYS">
-<recent name="C:\Users\Ryan Kolbe\IdeaProjects\Chapter_3\src\main\java\com\ryankolbe\intEquality" />
-<recent name="C:\Users\Ryan Kolbe\IdeaProjects\Chapter_3\src\main\java\com\ryankolbe\floatEquality" />
-</key>
-<key name="CreateClassDialog.RecentsKey">
-<recent name="com.ryankolbe.multi_module" />
-<recent name="com.ryankolbe.objectequality" />
-<recent name="com.ryankolbe" />
-</key>
-<option name="ruleStates">
-<list>
-    <RuleState>
-        <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-    </RuleState>
-    <RuleState>
-        <option name="name" value="StatusDashboardGroupingRule" />
-    </RuleState>
-</list>
-</option>
-<component name="RunManager" selected="JUnit.ObjectEqualityInterfaceImplementationTest.objectEquality (1)">
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.ryankolbe.objectequality" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ryankolbe.timeouts" />
+      <recent name="com.ryankolbe.disablingtest" />
+      <recent name="com.ryankolbe.objectequality" />
+      <recent name="com.ryankolbe.objectEquality" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ryankolbe.objectequality" />
+      <recent name="com.ryankolbe.floatEquality" />
+      <recent name="com.ryankolbe.intEquality" />
+      <recent name="com.ryankolbe.stringEquality" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ryankolbe.failingtest" />
+      <recent name="com.ryankolbe.stringEquality" />
+      <recent name="com.ryankolbe.intEquality" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryan Kolbe\IdeaProjects\Chapter_3\src\main\java\com\ryankolbe\intEquality" />
+      <recent name="C:\Users\Ryan Kolbe\IdeaProjects\Chapter_3\src\main\java\com\ryankolbe\floatEquality" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ryankolbe.objectequality" />
+      <recent name="com.ryankolbe" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ObjectEqualityInterfaceImplementationTest.objectEquality (1)">
     <configuration name="DisablingTestInterfaceImplementationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Chapter_3" />
       <extension name="coverage">
@@ -424,18 +439,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2643000" />
-      <workItem from="1551904151546" duration="7163000" />
-    </component>
-    <servers />
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66000" />
+    <option name="totallyTimeSpent" value="435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33509833" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32980332" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34039333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -449,13 +458,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32850242" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.32850242" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.32850242" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32850242" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32850242" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
@@ -522,13 +524,14 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="537" column="99" selection-start-line="537" selection-start-column="99" selection-end-line="537" selection-end-column="99" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/ryankolbe/multi_module.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/multi_module/calculatorModel.java" />
-      <provider selected="true">>
-          <editor-type-id>text-editor</editor-type-id>
-      </provider>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/junit/framework/TestCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -609,7 +612,7 @@
         </state>
       </provider>
     </entry>
-x    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/disablingtest/DisablingTestConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/disablingtest/DisablingTestConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -622,91 +625,90 @@ x    <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/disablingtest
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ryankolbe/timeouts/TimeoutsConfig.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-=======
->>>>>>> f7dc79c3a881535232f8a31c23a76678c6fdc4b2
   </component>
   <component name="masterDetails">
-      <state key="ArtifactsStructureConfigurable.UI">
-          <settings>
-              <artifact-editor />
-              <splitter-proportions>
-                  <option name="proportions">
-                      <list>
-                          <option value="0.2" />
-                      </list>
-                  </option>
-              </splitter-proportions>
-          </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-          <settings>
-              <last-edited>Spring</last-edited>
-              <splitter-proportions>
-                  <option name="proportions">
-                      <list>
-                          <option value="0.2" />
-                      </list>
-                  </option>
-              </splitter-proportions>
-          </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-          <settings>
-              <splitter-proportions>
-                  <option name="proportions">
-                      <list>
-                          <option value="0.2" />
-                      </list>
-                  </option>
-              </splitter-proportions>
-          </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-          <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                  <option name="proportions">
-                      <list>
-                          <option value="0.2" />
-                      </list>
-                  </option>
-              </splitter-proportions>
-          </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-          <settings>
-              <last-edited>Spring|Chapter_3</last-edited>
-              <splitter-proportions>
-                  <option name="proportions">
-                      <list>
-                          <option value="0.2" />
-                      </list>
-                  </option>
-              </splitter-proportions>
-          </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-          <settings>
-              <last-edited>Maven: junit:junit:4.11</last-edited>
-              <splitter-proportions>
-                  <option name="proportions">
-                      <list>
-                          <option value="0.2" />
-                      </list>
-                  </option>
-              </splitter-proportions>
-          </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-          <settings>
-              x         <splitter-proportions>
-              <option name="proportions">
-                  <list>
-                      <option value="0.2" />
-                  </list>
-              </option>
-          </splitter-proportions>
-          </settings>
-      </state>
+    <state key="ArtifactsStructureConfigurable.UI">
+      <settings>
+        <artifact-editor />
+        <splitter-proportions>
+          <option name="proportions">
+            <list>
+              <option value="0.2" />
+            </list>
+          </option>
+        </splitter-proportions>
+      </settings>
+    </state>
+    <state key="FacetStructureConfigurable.UI">
+      <settings>
+        <last-edited>Spring</last-edited>
+        <splitter-proportions>
+          <option name="proportions">
+            <list>
+              <option value="0.2" />
+            </list>
+          </option>
+        </splitter-proportions>
+      </settings>
+    </state>
+    <state key="GlobalLibrariesConfigurable.UI">
+      <settings>
+        <splitter-proportions>
+          <option name="proportions">
+            <list>
+              <option value="0.2" />
+            </list>
+          </option>
+        </splitter-proportions>
+      </settings>
+    </state>
+    <state key="JdkListConfigurable.UI">
+      <settings>
+        <last-edited>1.8</last-edited>
+        <splitter-proportions>
+          <option name="proportions">
+            <list>
+              <option value="0.2" />
+            </list>
+          </option>
+        </splitter-proportions>
+      </settings>
+    </state>
+    <state key="ModuleStructureConfigurable.UI">
+      <settings>
+        <last-edited>Spring|Chapter_3</last-edited>
+        <splitter-proportions>
+          <option name="proportions">
+            <list>
+              <option value="0.2" />
+            </list>
+          </option>
+        </splitter-proportions>
+      </settings>
+    </state>
+    <state key="ProjectLibrariesConfigurable.UI">
+      <settings>
+        <last-edited>Maven: junit:junit:4.11</last-edited>
+        <splitter-proportions>
+          <option name="proportions">
+            <list>
+              <option value="0.2" />
+            </list>
+          </option>
+        </splitter-proportions>
+      </settings>
+    </state>
+    <state key="ScopeChooserConfigurable.UI">
+      <settings>
+        x
+        <splitter-proportions>
+          <option name="proportions">
+            <list>
+              <option value="0.2" />
+            </list>
+          </option>
+        </splitter-proportions>
+      </settings>
+    </state>
   </component>
 </project>
